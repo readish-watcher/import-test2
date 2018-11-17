@@ -149,3 +149,6 @@ interface Receiver extends EventEmitter {
  yarn add -D 'babel-core@^7.0.0-0'
 ```
 
+```javascript
+const hello = 'world'
+```
