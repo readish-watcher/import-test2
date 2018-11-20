@@ -151,5 +151,5 @@ interface Receiver extends EventEmitter {
 
 ```javascript
 const hello = 'world'
-const second = 3
+const second = 9
 ```
