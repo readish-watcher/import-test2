@@ -1,5 +1,5 @@
 ---
-title: dynamoose2
+title: dynamoose
 typora-copy-images-to: dynamoose
 tags:
   - dynamoose
@@ -151,5 +151,5 @@ interface Receiver extends EventEmitter {
 
 ```javascript
 const hello = 'world'
-const second = 21
+const second = 22
 ```
