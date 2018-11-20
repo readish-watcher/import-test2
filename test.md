@@ -1,5 +1,5 @@
 ---
-title: dynamoose
+title: dynamoosong
 typora-copy-images-to: dynamoose
 tags:
   - dynamoose
