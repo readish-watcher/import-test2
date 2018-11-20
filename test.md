@@ -1,5 +1,5 @@
 ---
-title: 723
+title: 726
 typora-copy-images-to: dynamoose
 tags:
   - dynamoose
