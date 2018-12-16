@@ -7,6 +7,7 @@ tags:
   - indexes are not synchronized and update flag is set to false
 ---
 
+conflict
 # Trouble shooting
 
 ### dynamoose
